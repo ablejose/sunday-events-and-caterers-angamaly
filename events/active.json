@@ -1,0 +1,55 @@
+{
+  "slug": "sunday-events-and-caterers-angamaly",
+  "name": "Sunday Events and Caterers",
+  "shortName": "Sunday",
+  "descriptor": "Catering & Events",
+  "address": "Adam Circle, TB Rd, Angamaly, Keralam 683572",
+  "city": "Angamaly",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "683572",
+  "geo": {
+    "lat": 10.1958308,
+    "lng": 76.3882855
+  },
+  "mapsLink": "https://maps.google.com/?cid=4279304870560814352",
+  "phone": "+91 98473 48699",
+  "whatsapp": "919847348699",
+  "rating": 4.8,
+  "reviewCount": 98,
+  "reviews": [
+    {
+      "name": "jomon mathai",
+      "rating": 5,
+      "quote": "⭐⭐⭐⭐⭐ Excellent Catering Service We arranged food for our housewarming function from Sunday Events and Catering, and the experience was excellent. The food was very tasty, fresh, and well-prepared. Many of our guests commented that the food was awesome and enjoyed every dish."
+    },
+    {
+      "name": "Principal Sterling School Nerul , Navi Mumbai",
+      "rating": 5,
+      "quote": "The food arranged by Sunday Events at my niece's engagement was absolutely amazing! Every dish was delicious, fresh, and full of flavor. The variety was impressive, and the presentation was beautiful. Our guests thoroughly enjoyed every meal and couldn't stop praising the taste and quality. It truly added to the joy of the celebration."
+    },
+    {
+      "name": "Dinesh Potti",
+      "rating": 5,
+      "quote": "May 18th was our dream home's house warming ceremony.We conducted a evening party for our friends and family.The catering was given to Sunday events and caters and it was above our expectations. All my friends and relatives liked the food very much. The food was so delicious and their service was also so excellent."
+    },
+    {
+      "name": "Baby Juvan",
+      "rating": 5,
+      "quote": "The event was exceptionally well organized, with a great atmosphere and smooth coordination from start to finish. Everything was planned thoughtfully, making it an enjoyable and memorable experience for everyone who attended."
+    },
+    {
+      "name": "Tisson Paul",
+      "rating": 5,
+      "quote": "We celebrated my parents’ 50th wedding anniversary (Golden Jubilee) yesterday, and it was truly a memorable and beautiful event, thanks to the wonderful team at Sunday Events and Caterers. From start to finish, everything was perfectly planned and well organized."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://sunday-events-and-caterers-angamaly.vercel.app"
+}
